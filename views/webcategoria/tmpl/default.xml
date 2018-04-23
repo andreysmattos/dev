@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Categoria">
+		<message>Mostra os cursos de uma categoria</message>
+	</layout>
+	<fields name="request">
+		<fieldset name="request">
+			<field name="categoria" type="category" extension="com_webcurso" label="Qual Categoria" >
+				<option value="0">Todas as Categorias</option>
+			</field>
+             
+		</fieldset>
+	</fields>
+</metadata>

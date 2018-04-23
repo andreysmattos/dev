@@ -1,0 +1,27 @@
+.webcategoria{margin-bottom: 50px !important;}
+.webcategoria h3{font-size: 17px;margin: 10px 0px;min-height: 40px;text-align: center;}
+.webcategoria .weblista{border: solid 1px #ddd;overflow: hidden;min-height: 290px;
+    margin-bottom: 20px;}
+.webcategoria .webimagem{overflow: hidden;max-height: 140px;text-align: center;background: #eef8fd;
+    border-bottom: solid 1px #ddd;}
+.webcategoria .webimagem img{width: auto;max-height: 128px}
+.webcategoria .webinformation{overflow: hidden;padding: 0px 8px 10px 8px;min-height: 50px}
+.webinfo{line-height: 18px;font-size: 12px;}
+.webinfo span{color: #f60}
+.webcategoria .categoria{font-size: 12px;float: left}
+.webcategoria a.btn{float: right;padding: 2px 10px;}
+
+.webcurso .webimagem img{}
+.webcurso .webimagem{border: solid 1px #999;background: #eef8fd;}
+.webcurso .webinformation{border-bottom: solid 1px #ddd;padding-bottom: 20px;}
+.webcurso .webinformation h1{font-size: 20px;margin-top: 10px;}
+.webcurso .webinformation .info{}
+.webcurso .webinformation div{color: #545454;}
+.webcurso .webheader{margin-bottom: 20px;}
+.webinscri{background: #f5f5f5;border: solid 1px #ddd;padding: 10px;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px}
+.webinscri input, .webinscri select{width: 100%;margin-bottom: 8px;padding: 8px;
+    height: auto;}
+.webinscri input[type="radio"]{width: auto;}
+.webinscri h3{font-size: 20px;margin-top: 0px;text-align: center;}
+.webinscri input[type="submit"]{}
+.webdescricao{margin-top: 20px;}

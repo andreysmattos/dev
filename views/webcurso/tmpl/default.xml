@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Curso">
+		<message>Mostra um Curso selecionado</message>
+	</layout>
+	<fields name="request">
+		<fieldset name="request" addfieldpath="/administrator/components/com_webcurso/models/fields">
+		<field name="curso" type="cursos" extension="com_webcurso" label="Curso" />	
+		<!--<field name="layout" type="text" extension="com_webcurso" label="Layout" />	-->    
+		</fieldset>
+
+	</fields>
+</metadata>
